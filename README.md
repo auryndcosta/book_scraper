@@ -17,6 +17,11 @@ A Python script to scrape book data from [Books to Scrape](http://books.toscrape
 
 ---
 
+## Business Flow
+
+![WhatsApp Image 2025-05-31 at 12 08 55_68c3ecbb](https://github.com/user-attachments/assets/9fa81391-5418-4f8d-a81f-20b3351a07e7)
+
+
 ## Output
 
 **books_data.csv**
